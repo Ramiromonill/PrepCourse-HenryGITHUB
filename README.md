@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry.
+Soy Ramiro Monill.
+Es una prueba de como crear un repositorio y clonarlo desde GITHUB.
